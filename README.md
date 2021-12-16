@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [x] Lecture 1 
+- [☑️] Lecture 1-4
 
 ## Homeworks
 
