@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [☑️] Lecture 1-4
+- [x] Lecture 1-4
 
 ## Homeworks
 
@@ -16,5 +16,4 @@
 
 - [x] Project 3 - Concurrency Control
 
-- [x] Project 4 - Logging & Recovery
-
+- [y] Project 4 - Logging & Recovery
