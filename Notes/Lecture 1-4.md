@@ -48,7 +48,7 @@ Lecture 1 ～  4
 
 ===================
 
- 		SSD
+​ 	SSD
 
 ​		HDD									Non-Volatile、sequential access
 
