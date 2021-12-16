@@ -6,14 +6,14 @@
 
 ## Homeworks
 
-- [x] Homework 1 - SQL
+- [ ] Homework 1 - SQL
 
 ## Projects
 
-- [x] Project 1 - Buffer Pool
+- [ ] Project 1 - Buffer Pool
 
-- [x] Project 2 - B+Tree
+- [ ] Project 2 - B+Tree
 
-- [x] Project 3 - Concurrency Control
+- [ ] Project 3 - Concurrency Control
 
-- [y] Project 4 - Logging & Recovery
+- [ ] Project 4 - Logging & Recovery
