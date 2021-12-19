@@ -6,7 +6,7 @@
 
 ## Homeworks
 
-- [ ] Homework 1 - SQL
+- [x] Homework 1 - SQL
 
 ## Projects
 
