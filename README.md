@@ -10,7 +10,7 @@
 
 ## Projects
 
-- [ ] Project 1 - Buffer Pool
+- [x] Project 1 - Buffer Pool(2021.12.26)
 
 - [ ] Project 2 - B+Tree
 
