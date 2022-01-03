@@ -4,9 +4,13 @@
 
 - [x] Lecture 1-4
 
+- [x] Lecture 5-9
+
 ## Homeworks
 
 - [x] Homework 1 - SQL
+
+- [x] Homework 2 - indexes(2021.1.3)
 
 ## Projects
 
