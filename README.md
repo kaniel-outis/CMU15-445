@@ -6,11 +6,21 @@
 
 - [x] Lecture 5-9
 
+- [x] Lecture 10-15
+
+- [x] Lecture 16-19
+
+- [x] Lecture 20-24
+
 ## Homeworks
 
 - [x] Homework 1 - SQL
 
-- [x] Homework 2 - indexes(2021.1.3)
+- [x] Homework 2 - indexes
+
+- [x] Homework 3 - Join Algorithms
+
+- [x] Homework 3 - Concurrency Control
 
 ## Projects
 
