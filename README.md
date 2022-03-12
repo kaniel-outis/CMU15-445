@@ -26,7 +26,7 @@
 
 - [x] Project 1 - Buffer Pool(2021.12.26)
 
-- [ ] Project 2 - B+Tree
+- [x] Project 2 - B+Tree
 
 - [ ] Project 3 - Concurrency Control
 
